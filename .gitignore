@@ -216,3 +216,39 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local database
+clinical_assistant.db
+*.db
+*.sqlite3
+
+# Environment files
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Environment
+.env
+.env.*
+
+# SQLite database
+backend/clinical_assistant.db
+*.db
+*.sqlite3
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
